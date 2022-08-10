@@ -1,0 +1,19 @@
+D:\網站\customerSatis\customerSatis\bin\customerSatis.dll.config
+D:\網站\customerSatis\customerSatis\bin\customerSatis.dll
+D:\網站\customerSatis\customerSatis\bin\customerSatis.pdb
+D:\網站\customerSatis\customerSatis\obj\Debug\customerSatis.dll
+D:\網站\customerSatis\customerSatis\obj\Debug\customerSatis.pdb
+D:\網站\customerSatis\customerSatis\obj\Debug\customerSatis.csprojResolveAssemblyReference.cache
+D:\網站\報修外網顧客滿意度\customerSatis\customerSatis\bin\customerSatis.dll.config
+D:\網站\報修外網顧客滿意度\customerSatis\customerSatis\bin\customerSatis.dll
+D:\網站\報修外網顧客滿意度\customerSatis\customerSatis\bin\customerSatis.pdb
+D:\網站\報修外網顧客滿意度\customerSatis\customerSatis\obj\Debug\customerSatis.dll
+D:\網站\報修外網顧客滿意度\customerSatis\customerSatis\obj\Debug\customerSatis.pdb
+D:\網站\報修外網顧客滿意度\customerSatis\customerSatis\obj\Debug\customerSatis.csprojResolveAssemblyReference.cache
+C:\Users\aegis\Downloads\網站 (3)\報修外網顧客滿意度\customerSatis\customerSatis\bin\customerSatis.dll.config
+C:\Users\aegis\Downloads\網站 (3)\報修外網顧客滿意度\customerSatis\customerSatis\bin\customerSatis.dll
+C:\Users\aegis\Downloads\網站 (3)\報修外網顧客滿意度\customerSatis\customerSatis\bin\customerSatis.pdb
+C:\Users\aegis\Downloads\網站 (3)\報修外網顧客滿意度\customerSatis\customerSatis\obj\Debug\customerSatis.csproj.AssemblyReference.cache
+C:\Users\aegis\Downloads\網站 (3)\報修外網顧客滿意度\customerSatis\customerSatis\obj\Debug\customerSatis.csproj.CoreCompileInputs.cache
+C:\Users\aegis\Downloads\網站 (3)\報修外網顧客滿意度\customerSatis\customerSatis\obj\Debug\customerSatis.dll
+C:\Users\aegis\Downloads\網站 (3)\報修外網顧客滿意度\customerSatis\customerSatis\obj\Debug\customerSatis.pdb
